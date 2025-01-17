@@ -12,9 +12,10 @@
         <p>Consider 8 cubes glued face-to-face in a <m>3\times 3</m> grid with a hole in the middle as shown. 
            Inflating the shape gives a polygonal pattern <m>\pi</m> on a torus.
         </p>
-        <image source="images/crocodiles.png" width="50%">
-          
-        </image>
+        <figure xml:id="cubical-torus">
+          <image source="./images/cubical_torus.png" width="40%"/>
+          <caption>Polygonal torus.</caption>
+        </figure>
         <p>
           (a) Show that <m>\chi(\pi)=0</m>.
         </p>
