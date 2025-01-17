@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Section Title</title>
+  <title>Patterns and Possibilities</title>
+      <subsection>
+        <p>
+          A soccer ball is made up of pentagons and hexagons with 3 faces meeting at each vertex. Prove that the number of 
+          pentagons must be 12 in such a polygonal pattern on a sphere.
+        </p>
+      </subsection>
+      <subsection>
+        <p>Consider 8 cubes glued face-to-face in a <m>3\times 3</m> grid with a hole in the middle as shown. 
+           Inflating the shape gives a polygonal pattern <m>\pi</m> on a torus.
+        </p>
+        <image source="images/crocodiles.png" width="50%">
+          
+        </image>
+        <p>
+          (a) Show that <m>\chi(\pi)=0</m>.
+        </p>
+        <p>
+          (b) Assume that <m>\chi(\pi)=0</m> for all polygonal patterns on a torus. Prove that only three such 
+          patterns are possible if they consist entirely of <m>n</m>-gons (<m>n \ge 3</m>) with exactly <m>m\ge 3</m> faces 
+          meeting at each vertex.
+        </p>          
+      </subsection>
+      <subsection>
+        <p>The curve <m>r=2+\cos(2\pi u)</m>, <m>w=\sin(2\pi u)</m>, <m>0\le u\le 1</m> is a circle in the <m>rw</m>-half-plane where <m>r>0</m>.  Thus, <m>a=r(u)\cos(2\pi v)</m>, <m>b=r(u)\sin(2\pi v)</m>, <m>c=w(u)</m> for <m>0\le u,v\le 1</m> defines a surface of revolution (a torus) obtained by revolving this circle about the <m>z</m>-axis.  The edges of the domain <m>[0,1]\times[0,1]</m> where <m>u=0</m> and <m>u=1</m></p>
+        <p>(a)Show that <m>\chi(\pi)=0</m>.</p>
+        <p>(b)Assume that <m>\chi(\pi)=0</m> for all polygonal patterns on a torus. Prove that only three such patterns consist of <m>n</m>-gons (<m>n \ge 3</m>) with <m>m</m> faces meeting at each vertex (<m>m \ge 3</m>) are possible.</p>
+      </subsection>
 
-  <p> Text of section. </p>
 
 </section>
